@@ -1,4 +1,4 @@
-from program.number_utils import is_prime_list
+from function.number_utils import is_prime_list
 
 import unittest
 

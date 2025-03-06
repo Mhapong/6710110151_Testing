@@ -1,4 +1,4 @@
-from program.Staircase import Staircase
+from function.Staircase import Staircase
 import unittest
 
 class StaircaseTest(unittest.TestCase):

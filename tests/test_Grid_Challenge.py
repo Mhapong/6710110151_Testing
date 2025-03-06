@@ -1,4 +1,4 @@
-from program.gridChallenge import gridChallenge
+from function.gridChallenge import gridChallenge
 import unittest
 
 class gridChallengeTest(unittest.TestCase):

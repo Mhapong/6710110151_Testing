@@ -1,4 +1,4 @@
-from program.funnyString import funnyString
+from function.funnyString import funnyString
 import unittest
 
 class funnyStringTest(unittest.TestCase):
